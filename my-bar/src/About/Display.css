@@ -1,0 +1,30 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.display{position: relative;}
+.displayimage{
+width: 100%;
+height: 190%; position: absolute;
+top: 3%;
+z-index: -1;}.content{margin-top: 2%;}
+.displayhead{
+    color:beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    font-style: normal;
+    text-decoration: solid;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    margin-top: 6%;
+    margin-left: 2%;
+    
+}
+.displaybtn{padding: 10px 30px; background-color: orangered;color: bisque;
+border:2px solid ;
+border-radius: 4%;
+margin-top:12%;
+margin-left: 35%;}
+.displaybtn:hover{cursor: pointer;
+text-decoration: underline;
+color: black;}

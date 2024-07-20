@@ -1,0 +1,105 @@
+.homepage{
+    position: relative;
+}
+.bgimage{
+    
+    width: 100%;
+   
+}
+.bgimages{position: absolute;
+top: 0%;
+left: 0%;
+z-index: -1;
+opacity:86%;}
+.class{
+    display: flex;
+    flex-direction: column;
+}
+.subtitle{margin-top: 5%;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: rgb(209, 172, 127);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 39px;
+font-weight: 900;}
+.title{
+    font-size: 20px;
+    color:rgb(7, 41, 7);
+    text-align: center;text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-style: oblique;
+    margin-bottom: 2%;
+}
+.homeimage{
+    margin-left: 5%;
+    width: 70%;
+    height: 50%;
+}
+.two{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    margin-right: 4%;
+}
+.caption{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 34px ;text-transform: uppercase;
+text-decoration: underline;color: blue;font-weight: 600;
+margin-top: 2%;
+margin-top: 4%;}
+.captionhead{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 27px ;text-transform: uppercase;
+;color: black;font-weight: 600;font-style: italic;
+margin-bottom: 1%;
+}
+.righthome{
+    margin-right: 3%;
+}
+.homepara{
+    color: peru;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 23px;
+    text-transform:capitalize ;
+    font-weight: 800;
+}
+.three{display: flex;
+flex-direction: row;
+margin-top: 0%;}
+.h1{
+    text-transform: capitalize;
+    color: rgb(209, 172, 127);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 49px;
+font-weight: 900;letter-spacing: 2px;
+margin-left: 2%;
+}
+.button{
+    margin-top: 2%;
+    margin-left: 6%;
+   
+}
+.homelink{cursor: pointer;
+text-decoration: none;
+color: rgb(91, 91, 91);
+background-color: goldenrod;
+border: 2px solid white;
+border-radius: 12px;
+padding: 13px 23px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 19px;
+font-weight: 900;
+text-transform: uppercase;
+
+} 
+.homelink:hover{color:purple;
+    background-color: goldenrod;
+    border: 2px solid white;
+    border-radius: 12px;
+    padding: 13px 23px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    text-transform: uppercase;
+    cursor: pointer;}

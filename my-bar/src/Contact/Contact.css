@@ -1,0 +1,78 @@
+.contactpage{
+    display: flex;
+    flex-direction: row;
+    margin-top: 8%;
+    background-color: burlywood;
+}
+.iconside{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    width: 30%;
+}
+.contacticon{display: flex;
+    margin-bottom: 5%;
+}
+.contacticons{display: flex;
+    margin-bottom: 7%;
+}
+.cion{color:white;
+background-color: rgb(1, 1, 74) ;
+border-radius: 50%;
+justify-content: center;
+align-self: center;
+padding: 10px 10px;}
+.cinfo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 6%;
+}
+.cinfohead{
+    color: rgb(1, 1, 74);
+    letter-spacing: 1px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+}
+p{color:rgb(151, 150, 150);font-size: large;
+
+}.first{margin-bottom: 0%;}
+.second{margin-top: 0%;}
+form{
+    display: flex;
+    flex-direction: column;
+    color: rgb(183, 183, 183);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.details{display: flex;
+flex-direction: row;margin-bottom: 5%;
+}
+input{
+    padding: 14px 60px;
+    border: 1px solid darkgrey;
+    border-radius: 6px;
+}
+
+.email{margin-left: 5%;
+width: 80%;
+}
+.names{width: 72%;}
+.subject{margin-bottom: 5%;
+width:98%}
+
+#message{padding: 14px 60px;
+    border: 1px solid darkgrey;
+    border-radius: 6px;
+margin-bottom: 3%;}
+    .formbtn{    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color:rgb(47, 95, 95);
+        color:white;
+        border-radius: 38px;
+        padding: 12px 24px;
+        border: none;
+        font-size: 19px;
+        margin-left: 1%;
+        width: 30%;
+        cursor: pointer;}
+        

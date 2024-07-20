@@ -1,0 +1,109 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo2.PNG",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "pexels-cottonbro-studio-3993293.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "pexels-thgusstavo-santana-2040189.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "pexels-thgusstavo-santana-2849402.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "pexels-aline-reis-4252621.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "BarberImg.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },  
+    {
+      "src": "BarberImg2.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+      {
+      "src": "FacialMassage .jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }, 
+     {
+      "src": "fullbodymassage.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Salon.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+    {
+      "src": "sora-massage.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    },
+     {
+      "src": "massagevideo.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    },
+    {
+      "src": "3996964-uhd_4096_2160_25fps.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    },
+    {
+      "src": "3998263-uhd_4096_2160_25fps.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    },
+    {
+      "src": "3998516-uhd_4096_2160_25fps.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    }, {
+      "src": "4178109-hd_1920_1080_30fps.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    },
+    {
+      "src": "5524244-uhd_3840_2160_30fps.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    }, 
+    {
+      "src": "7987788-hd_1920_1080_25fps.mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

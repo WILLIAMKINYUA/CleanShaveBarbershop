@@ -1,0 +1,120 @@
+.whole{background-color: gainsboro;position: relative;}
+.whose{position: fixed;
+    top: 70vh;
+    left: 0%;
+    right:0%; 
+    bottom: 0%;
+z-index: 1;}
+     
+.footerpage{
+    margin-top: 6%;
+    display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+    justify-content: space-around;
+}
+.left{
+    display: flex;
+    flex-direction: column;}
+.count{
+    justify-content: center;
+align-items: center;
+color:grey;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+}
+.footarea{
+    margin-left:13px ;
+
+}
+.personal{
+    display: flex;
+    flex-direction: column;
+list-style: none;
+text-decoration:none;
+margin-left: 13px;
+}
+.plinkfoot{
+    list-style: none;
+    text-decoration:none;
+    margin-top: 3%;
+    color:grey;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline grey;
+}
+.plinkfoot:hover{
+text-decoration: underline black;
+color: black;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+}
+.firstfooter{ display: flex;
+    flex-direction: column;
+    margin-top: 3%;}
+    .linkfooter{ list-style: none;
+        text-decoration:none;
+        margin-top: 10%;
+        color:grey;
+        font-size: large;
+        font-family: sans-serif;
+        text-decoration: underline grey;}
+        .linkfooter:hover{
+            color: black;
+            }
+ .secondfooter{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+ }           
+ .right{
+    display: flex;
+    flex-direction: column;
+ }
+ .linkfooters{ list-style: none;
+    text-decoration:none;
+    margin-top: 6%;
+    color:grey;
+    font-size: large;
+    font-family: sans-serif;
+    text-decoration: underline grey;}
+    .linkfooters:hover{
+        color: black;
+        }
+    .social{
+        display: flex;
+        margin-top: 10%;
+        color: rgb(95, 95, 95);
+    }
+    .socialicon{
+        margin-left: 5%;
+        background-color: rgb(154, 154, 154);
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
+        padding: 10px 10px;
+    }
+    .socialicon:hover{
+     background-color: darkblue;
+    color: white;
+    transform: scale(0.7);
+    padding: 10px 10px;
+
+    }
+    .copyright{
+        margin-bottom: 9%;
+        margin-left: 17%;
+        margin-top: 5%;
+        color:grey;
+    font-size: large;
+    font-family: sans-serif;
+    }
+    .control{
+        margin-left: 15%;
+        margin-bottom: 9%;
+    }
+    .brand{
+        text-decoration: underline gray;
+    }

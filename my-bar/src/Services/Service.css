@@ -1,0 +1,14 @@
+*{margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.spage{background-color: goldenrod;
+
+}
+.servicepara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 54px ;text-transform: uppercase;
+text-decoration: none;color: blue;font-weight: 900;
+margin-top: 8%;
+margin-left: 5%;
+}
